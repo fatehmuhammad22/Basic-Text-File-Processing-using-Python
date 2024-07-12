@@ -1,0 +1,5 @@
+Total number of feedback entries: 98
+Good: 41
+Bad: 19
+Excellent: 33
+Poor: 27
